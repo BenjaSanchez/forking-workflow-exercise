@@ -1,2 +1,2 @@
 def tweet():
-    return "Cleptomaniacs always take everything literally"
+    return "Kleptomaniacs always take everything literally"
